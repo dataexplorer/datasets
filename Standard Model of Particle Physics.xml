@@ -601,15 +601,19 @@
   <filters />
   <views>
     <scatter-plot>
-      <extent>-0.129864730339053,-0.173783451425895,1.2,1.2</extent>
+      <extent>-0.114053990747789,-0.180810446799789,1.2,1.2</extent>
       <layout>
         <x-axis-column-id>17</x-axis-column-id>
+        <x-axis-sort-order>Ascending</x-axis-sort-order>
         <y-axis-column-id>16</y-axis-column-id>
+        <y-axis-sort-order>Descending</y-axis-sort-order>
         <color-column-id>5</color-column-id>
+        <color-sort-order>Ascending</color-sort-order>
         <color-palette-name>Paired</color-palette-name>
         <size-column-id />
+        <size-sort-order>Ascending</size-sort-order>
         <lower-size>0.125</lower-size>
-        <upper-size>0.26080246913580246</upper-size>
+        <upper-size>0.39660493827160492</upper-size>
         <shape-column-id />
         <label-column-id>2</label-column-id>
         <link-column-id>21</link-column-id>

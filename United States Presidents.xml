@@ -1099,15 +1099,19 @@
   <filters />
   <views>
     <scatter-plot>
-      <extent>-0.147432218773789,-0.179053697956316,1.2,1.2</extent>
+      <extent>-0.135134976869474,-0.173783451425895,1.2,1.2</extent>
       <layout>
         <x-axis-column-id>5</x-axis-column-id>
+        <x-axis-sort-order>Ascending</x-axis-sort-order>
         <y-axis-column-id>2</y-axis-column-id>
+        <y-axis-sort-order>Ascending</y-axis-sort-order>
         <color-column-id />
+        <color-sort-order>Ascending</color-sort-order>
         <color-palette-name>Pastel 1</color-palette-name>
         <size-column-id />
+        <size-sort-order>Ascending</size-sort-order>
         <lower-size>0.125</lower-size>
-        <upper-size>0.43364197530864212</upper-size>
+        <upper-size>0.43364197530864196</upper-size>
         <shape-column-id>17</shape-column-id>
         <label-column-id />
         <link-column-id />

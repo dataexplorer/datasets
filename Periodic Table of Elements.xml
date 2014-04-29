@@ -3477,13 +3477,17 @@
   <filters />
   <views>
     <scatter-plot>
-      <extent>-0.1,-0.1,1.2,1.2</extent>
+      <extent>-0.110540493060842,-0.122837734965158,1.2,1.2</extent>
       <layout>
         <x-axis-column-id>23</x-axis-column-id>
+        <x-axis-sort-order>Ascending</x-axis-sort-order>
         <y-axis-column-id>22</y-axis-column-id>
+        <y-axis-sort-order>Descending</y-axis-sort-order>
         <color-column-id>7</color-column-id>
-        <color-palette-name>Paired</color-palette-name>
+        <color-sort-order>Ascending</color-sort-order>
+        <color-palette-name>Pastel 1</color-palette-name>
         <size-column-id />
+        <size-sort-order>Ascending</size-sort-order>
         <lower-size>0.125</lower-size>
         <upper-size>0.125</upper-size>
         <shape-column-id />
